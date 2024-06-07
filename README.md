@@ -16,7 +16,6 @@
 - 
 ### 🛠 Technologies & Tools
 
-<img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="50px"> 
 <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50px"> 
 <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50px"> 
 <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50px"> 
