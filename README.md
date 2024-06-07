@@ -13,7 +13,9 @@
 - 📫 Feel free to reach out to me at zaidyoutub0@gmail.com (don't laugh bro i created this in 2017 that's why. i am youtuber kid in 2017 lol!)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Can Sleep! While Lights Are On! 🔥
-- 
+  
+ ## Coding In A 6GB RAM DDR3 I3 2ND GEN PROCESSOR
+
 ### 🛠 Technologies & Tools
 
 <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50px"> 
