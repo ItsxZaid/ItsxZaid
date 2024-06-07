@@ -13,10 +13,17 @@
 - 📫 Feel free to reach out to me at zaidyoutub0@gmail.com (don't laugh bro i created this in 2017 that's why. i am youtuber kid in 2017 lol!)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can solve a Rubik's cube blindfolded! 🔥
-
+- 
 ### 🛠 Technologies & Tools
 
-<img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="50px"> <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50px"> <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50px"> <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50px">
+<img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="50px"> 
+<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50px"> 
+<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50px"> 
+<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50px"> 
+<img src="https://media.giphy.com/media/TgGJMVRbVAFpm2QJLZ/giphy.gif" width="50px"> 
+<img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50px"> 
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="50px"> 
+<img src="https://media.giphy.com/media/4lxh4QUKGSL09M46Sw/giphy.gif" width="50px">
 
 ### 🌟 GitHub Stats
 
