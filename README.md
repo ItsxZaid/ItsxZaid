@@ -12,7 +12,7 @@
 - 🔭 I'm looking to collaborate on exciting open-source projects
 - 📫 Feel free to reach out to me at zaidyoutub0@gmail.com (don't laugh bro i created this in 2017 that's why. i am youtuber kid in 2017 lol!)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can solve a Rubik's cube blindfolded! 🔥
+- ⚡ Fun fact: I Can Sleep! While Lights Are On! 🔥
 - 
 ### 🛠 Technologies & Tools
 
