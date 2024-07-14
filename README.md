@@ -37,7 +37,7 @@
         <li>🇱🇰 Sri Lankan Full-Stack Developer</li>
         <li>☕ Fueled by coffee and curiosity</li>
         <li>🚀 Always learning and building</li>
-        <li>🎓 Computer Science graduate</li>
+        <li>🎓 Computer Science graduate (TODO) </li>
         <li>💼 Open for exciting opportunities</li>
       </ul>
     </td>
@@ -46,9 +46,9 @@
       <ul>
         <li>🌐 Mastering Next.js and React</li>
         <li>🤖 Exploring AI and Machine Learning</li>
-        <li>📊 Data visualization with D3.js</li>
+        <li>📊 Data visualization with D3.js (TODO) </li>
         <li>🔐 Studying cybersecurity best practices</li>
-        <li>📱 Mobile app development with React Native</li>
+        <li>📱 Mobile app development with React Native (TODO)</li>
       </ul>
     </td>
   </tr>
