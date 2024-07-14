@@ -1,3 +1,5 @@
+<img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=⚡+Hello%2C+I'm+%40hacxk+⚡;⚡+AKA+Zaid+⚡;⚡+Full-Stack+Developer+⚡;⚡+Tech+Enthusiast+⚡" alt="Typing SVG" />
 </h1>
@@ -14,9 +16,22 @@
 
 <br>
 
-<table align="center">
-  <tr>
-    <td>
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td align="center" style="border: none;">
+      <img width="50%" src="https://github-readme-stats.vercel.app/api?username=hacxk&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+    </td>
+    <td align="center" style="border: none;">
+      <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=hacxk&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none;">
       <h3 align="center">🧙‍♂️ About Me</h3>
       <ul>
         <li>🇱🇰 Sri Lankan Full-Stack Developer</li>
@@ -26,7 +41,7 @@
         <li>💼 Open for exciting opportunities</li>
       </ul>
     </td>
-    <td>
+    <td style="border: none;">
       <h3 align="center">💻 Current Focus</h3>
       <ul>
         <li>🌐 Mastering Next.js and React</li>
@@ -60,38 +75,25 @@
 
 <br>
 
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hacxk&show_icons=true&theme=tokyonight" alt="GitHub Stats" />&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hacxk&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hacxk&theme=nord&column=7" alt="GitHub Trophies" />
-</p>
-
-<br>
-
 <h2 align="center">🚀 Featured Projects</h2>
 
-<table align="center">
-  <tr>
-    <td align="center">
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td align="center" style="border: none;">
       <a href="https://github.com/hacxk/project1">
         <img src="https://via.placeholder.com/150" width="100px;" alt="Project 1"/>
         <br />
         <sub><b>AI-Powered Task Manager</b></sub>
       </a>
     </td>
-    <td align="center">
+    <td align="center" style="border: none;">
       <a href="https://github.com/hacxk/project2">
         <img src="https://via.placeholder.com/150" width="100px;" alt="Project 2"/>
         <br />
         <sub><b>Blockchain Voting System</b></sub>
       </a>
     </td>
-    <td align="center">
+    <td align="center" style="border: none;">
       <a href="https://github.com/hacxk/project3">
         <img src="https://via.placeholder.com/150" width="100px;" alt="Project 3"/>
         <br />
@@ -137,16 +139,4 @@
 
 <h4 align="center">💖 Crafted with ❤️ in Sri Lanka | Open to exciting opportunities worldwide! 💖</h4>
 
-```
-       _____
-      /     \
-    /____   /|   "The only way to do great work
-   /    /  / |    is to love what you do."
-  /____/  /  |         - Steve Jobs
- /    /  /   |
-/____/  /    |
-|    | /     |
-|____|/      /
-     |______/
-   Code.exe
-```
+<img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
