@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=⚡+Hello%2C+I'm+%40hacxk+⚡;⚡+AKA+Zaid+⚡;⚡+Full-Stack+Developer+⚡;⚡+Tech+Enthusiast+⚡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=🚀+Hello%2C+I'm+%40hacxk+🚀;🌟+AKA+Zaid+🌟;💻+Full-Stack+Wizard+💻;🔬+Tech+Innovator+🔬" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -19,32 +19,32 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=hacxk&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=hacxk&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
     </td>
     <td align="center" width="50%">
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=hacxk&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" alt="GitHub Streak" />
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=hacxk&theme=radical&hide_border=true&stroke=0000&background=0D1117" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
 
-## 🧙‍♂️ About Me
+## 🧙‍♂️ The Sorcerer Behind the Screen
 
-- 🇱🇰 Sri Lankan Full-Stack Developer
-- ☕ Fueled by coffee and curiosity
-- 🚀 Always learning and building
-- 🎓 Computer Science graduate (TODO)
-- 💼 Open for exciting opportunities
+- 🇱🇰 Sri Lankan Code Alchemist transforming caffeine into cutting-edge solutions
+- 🚀 Perpetual learner and builder, crafting digital wonders one commit at a time
+- 🎓 Soon-to-be Computer Science graduate, already versed in the arcane arts of programming
+- 💼 Seeking legendary quests to push the boundaries of technology
+- 🌟 Bringing ideas to life with a sprinkle of magic and a whole lot of passion
 
-## 💻 Current Focus
+## 💻 Current Enchantments
 
-- 🌐 Mastering Next.js and React
-- 🤖 Exploring AI and Machine Learning
-- 📊 Data visualization with D3.js
-- 🔐 Studying cybersecurity best practices
-- 📱 Mobile app development with React Native
-- 🐹 Learning Go programming language
+- 🌐 Weaving intricate spells with Next.js and React to create mesmerizing web experiences
+- 🤖 Delving into the mystical realms of AI and Machine Learning to unlock new possibilities
+- 📊 Conjuring data visualizations with D3.js that tell compelling stories
+- 🔐 Fortifying digital realms with advanced cybersecurity incantations
+- 📱 Crafting mobile enchantments with React Native to bewitch users across platforms
+- 🐹 Harnessing the power of Go to optimize and accelerate digital creations
 
-## 🛠️ Technologies & Tools
+## 🛠️ Magical Arsenal
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;
@@ -62,7 +62,7 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 </p>
 
-## 🚀 Featured Projects
+## 🚀 Legendary Artifacts
 
 <table align="center">
   <tr>
@@ -70,52 +70,57 @@
       <a href="https://github.com/hacxk/project1">
         <img src="https://via.placeholder.com/150" width="100px" alt="Project 1"/>
         <br />
-        <sub><b>AI-Powered Task Manager</b></sub>
+        <sub><b>Chronos: AI-Powered Time Bender</b></sub>
       </a>
+      <p>Harness the power of AI to manipulate time itself (or at least manage it more efficiently)</p>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/hacxk/project2">
         <img src="https://via.placeholder.com/150" width="100px" alt="Project 2"/>
         <br />
-        <sub><b>Blockchain Voting System</b></sub>
+        <sub><b>Ethereal: Blockchain Democracy</b></sub>
       </a>
+      <p>Revolutionize voting with unbreakable blockchain technology and crystal-clear transparency</p>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/hacxk/project3">
         <img src="https://via.placeholder.com/150" width="100px" alt="Project 3"/>
         <br />
-        <sub><b>AR Shopping Experience</b></sub>
+        <sub><b>Mirage: AR Shopping Sorcery</b></sub>
       </a>
+      <p>Transform your living room into a virtual boutique with cutting-edge AR technology</p>
     </td>
   </tr>
 </table>
 
-## 📫 Let's Connect!
+## 📫 Summon Me
 
 <p align="center">
-  I'm always excited to collaborate on innovative projects and discuss the latest in tech. Whether you have a groundbreaking idea or just want to chat, don't hesitate to reach out!
+  Ready to embark on a digital odyssey? Whether you seek to revolutionize industries, craft mind-bending experiences, or simply geek out about the latest tech, I'm your wizard! Let's combine our powers and create something extraordinary!
 </p>
 
 <p align="center">
-  <a href="mailto:zaidzeenathe@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
-  <a href="https://github.com/hacxk"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
-  <a href="https://www.hackerrank.com/zaidzeenathe"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" /></a>
+  <a href="mailto:zaidzeenathe@gmail.com"><img src="https://img.shields.io/badge/Summon_via_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
+  <a href="https://github.com/hacxk"><img src="https://img.shields.io/badge/Explore_My_Realm-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
+  <a href="https://www.hackerrank.com/zaidzeenathe"><img src="https://img.shields.io/badge/Witness_My_Trials-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" /></a>
 </p>
 
 <details>
-  <summary>🎉 Fun Facts</summary>
+  <summary>🎉 Arcane Secrets</summary>
   <br>
   <ul>
-    <li>🎵 Coding playlist: A mix of lo-fi beats and 80s synthwave</li>
-    <li>🍕 Favorite debugging fuel: Extra cheesy pizza with a side of algorithms</li>
-    <li>📚 Currently reading: "Clean Code" by Robert C. Martin</li>
-    <li>🎮 When not coding: Exploring virtual worlds or solving Rubik's cubes</li>
-    <li>💡 Life motto: "Why use many lines when few line do trick?" - Kevin Malone</li>
+    <li>🎵 Coding soundtrack: An enchanted mix of lo-fi incantations and 80s synthwave spells</li>
+    <li>🍕 Debugger's delight: Pizza infused with the essence of stack traces and sprinkled with binary</li>
+    <li>📚 Current grimoire: "Clean Code" by the archmage Robert C. Martin</li>
+    <li>🎮 Off-duty adventures: Exploring virtual realms or unraveling the mysteries of Rubik's hypercubes</li>
+    <li>💡 Sorcerer's motto: "Why conjure many lines when few lines cast stronger spells?" - Wizard Kevin of The Office</li>
   </ul>
 </details>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hacxk&color=blueviolet&style=flat-square&label=Profile+Visitors" alt="Profile Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=hacxk&color=blueviolet&style=flat-square&label=Magical+Visitors" alt="Profile Visitors" />
 </p>
 
-<h4 align="center">💖 Crafted with ❤️ in Sri Lanka | Open to exciting opportunities worldwide! 💖</h4>
+<h4 align="center">💖 Crafted with arcane energies in the mystical lands of Sri Lanka | Open to joining legendary coding guilds worldwide! 💖</h4>
+
+<!-- Hidden Treasure: Congrats on finding this! You've earned 100 points of awesome. Use them wisely. -->
