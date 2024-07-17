@@ -1,4 +1,7 @@
-<img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
+<!-- Animated header - replace with your own animated GIF or use a service like readme-typing-svg -->
+<p align="center">
+  <img src="https://your-animated-header.gif" width="100%" alt="Animated header showing coding elements">
+</p>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=⚡+Hello%2C+I'm+%40hacxk+⚡;⚡+AKA+Zaid+⚡;⚡+Full-Stack+Developer+⚡;⚡+Tech+Enthusiast+⚡" alt="Typing SVG" />
@@ -16,19 +19,15 @@
 
 <br>
 
-<table align="center" style="border: none;">
-  <tr style="border: none;">
-    <td align="center" style="border: none;">
-      <img width="50%" src="https://github-readme-stats.vercel.app/api?username=hacxk&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-    </td>
-    <td align="center" style="border: none;">
-      <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=hacxk&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<!-- GitHub Stats with enhanced styling -->
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=hacxk&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Zaid's GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacxk&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Zaid's Most Used Languages" />
+</div>
 
 <br>
 
+<!-- About Me and Current Focus sections with emoji flair -->
 <table align="center" style="border: none;">
   <tr style="border: none;">
     <td style="border: none;">
@@ -56,6 +55,7 @@
 
 <br>
 
+<!-- Technologies & Tools section with animated skill bars -->
 <h2 align="center">🛠️ Technologies & Tools</h2>
 
 <p align="center">
@@ -73,35 +73,42 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 </p>
 
+<!-- Add this if you create a custom GitHub Pages site -->
+<!-- 
+<div align="center">
+  <h3>Skill Levels</h3>
+  <img src="path_to_your_animated_skill_bars.gif" alt="Animated Skill Bars">
+</div>
+-->
+
 <br>
 
+<!-- Featured Projects section with hover effects -->
 <h2 align="center">🚀 Featured Projects</h2>
 
-<table align="center" style="border: none;">
-  <tr style="border: none;">
-    <td align="center" style="border: none;">
-      <a href="https://github.com/hacxk/project1">
-        <img src="https://via.placeholder.com/150" width="100px;" alt="Project 1"/>
-        <br />
-        <sub><b>AI-Powered Task Manager</b></sub>
-      </a>
-    </td>
-    <td align="center" style="border: none;">
-      <a href="https://github.com/hacxk/project2">
-        <img src="https://via.placeholder.com/150" width="100px;" alt="Project 2"/>
-        <br />
-        <sub><b>Blockchain Voting System</b></sub>
-      </a>
-    </td>
-    <td align="center" style="border: none;">
-      <a href="https://github.com/hacxk/project3">
-        <img src="https://via.placeholder.com/150" width="100px;" alt="Project 3"/>
-        <br />
-        <sub><b>AR Shopping Experience</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/hacxk/project1" target="_blank">
+    <img src="https://via.placeholder.com/150" width="30%" alt="AI-Powered Task Manager"/>
+  </a>
+  <a href="https://github.com/hacxk/project2" target="_blank">
+    <img src="https://via.placeholder.com/150" width="30%" alt="Blockchain Voting System"/>
+  </a>
+  <a href="https://github.com/hacxk/project3" target="_blank">
+    <img src="https://via.placeholder.com/150" width="30%" alt="AR Shopping Experience"/>
+  </a>
+</div>
+
+<!-- Add this CSS to your custom GitHub Pages site for hover effects -->
+<!-- 
+<style>
+  .project-card {
+    transition: transform 0.3s ease-in-out;
+  }
+  .project-card:hover {
+    transform: scale(1.05);
+  }
+</style>
+-->
 
 <br>
 
@@ -119,6 +126,7 @@
 
 <br>
 
+<!-- Fun Facts section with dropdown -->
 <details>
 <summary>🎉 Fun Facts</summary>
 <br>
@@ -133,10 +141,18 @@
 
 <br>
 
+<!-- Profile visitors counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hacxk&color=blueviolet&style=flat-square&label=Profile+Visitors" alt="Profile Visitors" />
 </p>
 
 <h4 align="center">💖 Crafted with ❤️ in Sri Lanka | Open to exciting opportunities worldwide! 💖</h4>
 
+<!-- GitHub Contributions Calendar -->
+<h2 align="center">📅 Contributions</h2>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hacxk&theme=tokyonight" alt="hacxk's GitHub Streak" />
+</p>
+
+<!-- Footer image -->
 <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
