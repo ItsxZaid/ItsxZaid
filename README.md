@@ -27,24 +27,24 @@
   </tr>
 </table>
 
-## 🧙‍♂️ The Sorcerer Behind the Screen
+## 🧙‍♂️ Who Am I?
 
-- 🇱🇰 Sri Lankan Code Alchemist transforming caffeine into cutting-edge solutions
-- 🚀 Perpetual learner and builder, crafting digital wonders one commit at a time
-- 🎓 Soon-to-be Computer Science graduate, already versed in the arcane arts of programming
-- 💼 Seeking legendary quests to push the boundaries of technology
-- 🌟 Bringing ideas to life with a sprinkle of magic and a whole lot of passion
+- 🇱🇰 Based in Sri Lanka, I’m a coder who turns coffee into innovative tech solutions.
+- 🚀 Always learning and building, I craft digital magic with each line of code.
+- 🎓 Soon-to-be graduate in Computer Science, deeply immersed in the world of programming.
+- 💼 Looking for exciting opportunities to push the envelope in tech.
+- 🌟 Driven by passion, creativity, and a touch of enchantment.
 
-## 💻 Current Enchantments
+## 💻 What I'm Working On
 
-- 🌐 Weaving intricate spells with Next.js and React to create mesmerizing web experiences
-- 🤖 Delving into the mystical realms of AI and Machine Learning to unlock new possibilities
-- 📊 Conjuring data visualizations with D3.js that tell compelling stories
-- 🔐 Fortifying digital realms with advanced cybersecurity incantations
-- 📱 Crafting mobile enchantments with React Native to bewitch users across platforms
-- 🐹 Harnessing the power of Go to optimize and accelerate digital creations
+- 🌐 Creating engaging web experiences using Next.js and React.
+- 🤖 Exploring the frontiers of AI and Machine Learning.
+- 📊 Designing impactful data visualizations with D3.js.
+- 🔐 Enhancing security with advanced cybersecurity practices.
+- 📱 Developing cross-platform mobile apps with React Native.
+- 🐹 Leveraging Go to boost performance and scalability.
 
-## 🛠️ Magical Arsenal
+## 🛠️ Skills & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;
@@ -62,65 +62,22 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 </p>
 
-## 🚀 Legendary Artifacts
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/hacxk/project1">
-        <img src="https://via.placeholder.com/150" width="100px" alt="Project 1"/>
-        <br />
-        <sub><b>Chronos: AI-Powered Time Bender</b></sub>
-      </a>
-      <p>Harness the power of AI to manipulate time itself (or at least manage it more efficiently)</p>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/hacxk/project2">
-        <img src="https://via.placeholder.com/150" width="100px" alt="Project 2"/>
-        <br />
-        <sub><b>Ethereal: Blockchain Democracy</b></sub>
-      </a>
-      <p>Revolutionize voting with unbreakable blockchain technology and crystal-clear transparency</p>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/hacxk/project3">
-        <img src="https://via.placeholder.com/150" width="100px" alt="Project 3"/>
-        <br />
-        <sub><b>Mirage: AR Shopping Sorcery</b></sub>
-      </a>
-      <p>Transform your living room into a virtual boutique with cutting-edge AR technology</p>
-    </td>
-  </tr>
-</table>
-
-## 📫 Summon Me
+## 📫 Let's Connect
 
 <p align="center">
-  Ready to embark on a digital odyssey? Whether you seek to revolutionize industries, craft mind-bending experiences, or simply geek out about the latest tech, I'm your wizard! Let's combine our powers and create something extraordinary!
+  Interested in collaborating, discussing new technologies, or just having a chat? Feel free to reach out!
 </p>
 
 <p align="center">
-  <a href="mailto:zaidzeenathe@gmail.com"><img src="https://img.shields.io/badge/Summon_via_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
-  <a href="https://github.com/hacxk"><img src="https://img.shields.io/badge/Explore_My_Realm-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
-  <a href="https://www.hackerrank.com/zaidzeenathe"><img src="https://img.shields.io/badge/Witness_My_Trials-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" /></a>
+  <a href="mailto:zaidzeenathe@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
+  <a href="https://github.com/hacxk"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
+  <a href="https://www.hackerrank.com/zaidzeenathe"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" /></a>
 </p>
-
-<details>
-  <summary>🎉 Arcane Secrets</summary>
-  <br>
-  <ul>
-    <li>🎵 Coding soundtrack: An enchanted mix of lo-fi incantations and 80s synthwave spells</li>
-    <li>🍕 Debugger's delight: Pizza infused with the essence of stack traces and sprinkled with binary</li>
-    <li>📚 Current grimoire: "Clean Code" by the archmage Robert C. Martin</li>
-    <li>🎮 Off-duty adventures: Exploring virtual realms or unraveling the mysteries of Rubik's hypercubes</li>
-    <li>💡 Sorcerer's motto: "Why conjure many lines when few lines cast stronger spells?" - Wizard Kevin of The Office</li>
-  </ul>
-</details>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hacxk&color=blueviolet&style=flat-square&label=Magical+Visitors" alt="Profile Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=hacxk&color=blueviolet&style=flat-square&label=Visitors" alt="Profile Visitors" />
 </p>
 
-<h4 align="center">💖 Crafted with arcane energies in the mystical lands of Sri Lanka | Open to joining legendary coding guilds worldwide! 💖</h4>
+<h4 align="center">💖 Crafted with love from Sri Lanka | Open to exciting opportunities and collaborations! 💖</h4>
 
 <!-- Hidden Treasure: Congrats on finding this! You've earned 100 points of awesome. Use them wisely. -->
