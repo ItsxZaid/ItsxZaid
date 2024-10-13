@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=%F0%9F%9A%80+Hello%2C+I'm+%40hacxk+%F0%9F%9A%80;%F0%9F%8C%9F+AKA+Zaid+%F0%9F%8C%9F;%F0%9F%92%BB+Full-Stack+Wizard+%F0%9F%92%BB;%F0%9F%94%AC+Tech+Innovator+%F0%9F%94%AC" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=%F0%9F%9A%80+Hey+there%2C+I'm+%40hacxk+%F0%9F%9A%80;%F0%9F%8C%9F+Also+known+as+Zaid+%F0%9F%8C%9F;%F0%9F%92%BB+Full-Stack+Developer+%F0%9F%92%BB;%F0%9F%94%AC+Tech+Enthusiast+%F0%9F%94%AC" alt="Typing SVG" /></a>
 </h1>
 
 <p align="center">
@@ -27,24 +27,24 @@
   </tr>
 </table>
 
-## 🧙‍♂️ Quantum Coder | Digital Alchemist
+## 👨‍💻 About Me
 
-- 🌍 Hailing from the enchanted lands of Sri Lanka, I transmute caffeine into cutting-edge tech solutions.
-- 🚀 Perpetually learning and crafting, I weave digital spells with each line of code.
-- 🎓 Soon-to-be Computer Science graduate, deeply immersed in the quantum realm of programming.
-- 💼 Seeking groundbreaking opportunities to bend the fabric of technological reality.
-- 🌟 Powered by passion, creativity, and a dash of arcane magic.
+- 🌍 I'm from Sri Lanka, turning coffee into cool tech stuff.
+- 🚀 Always learning and building, I love creating new things with code.
+- 🎓 Soon-to-be Computer Science graduate, really into programming.
+- 💼 Looking for exciting opportunities to work on interesting tech projects.
+- 🌟 Driven by passion, creativity, and a love for technology.
 
-## 💻 Current Technological Pursuits
+## 💻 What I'm Up To
 
-- 🌐 Architecting immersive web experiences using Next.js and React, pushing the boundaries of user interaction.
-- 🤖 Venturing into the uncharted territories of AI and Machine Learning, teaching machines to dream.
-- 📊 Conjuring mind-bending data visualizations with D3.js, turning raw data into visual symphonies.
-- 🔐 Fortifying digital realms with cutting-edge cybersecurity enchantments.
-- 📱 Crafting reality-warping cross-platform mobile apps with React Native.
-- 🐹 Harnessing the power of Go to create lightning-fast, scalable digital ecosystems.
+- 🌐 Building awesome websites using Next.js and React, trying to make them super user-friendly.
+- 🤖 Exploring AI and Machine Learning, teaching computers to do smart things.
+- 📊 Creating cool data visualizations with D3.js, making numbers look pretty.
+- 🔐 Learning about cybersecurity to keep digital stuff safe.
+- 📱 Making apps that work on both iPhones and Androids using React Native.
+- 🐹 Using Go to build fast and scalable programs.
 
-## 🛠️ Arsenal of Digital Sorcery
+## 🛠️ Tools I Use
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;
@@ -62,10 +62,10 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 </p>
 
-## 📫 Initiate Neural Handshake
+## 📫 Get in Touch
 
 <p align="center">
-  Ready to collaborate on reality-altering projects, discuss bleeding-edge tech, or engage in mind-expanding dialogues? Reach out through the quantum entanglement channels below!
+  Want to work together on cool projects, chat about the latest tech, or just have a friendly conversation? Reach out to me!
 </p>
 
 <p align="center">
@@ -75,9 +75,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hacxk&color=blueviolet&style=flat-square&label=Dimensional+Visitors" alt="Profile Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=hacxk&color=blueviolet&style=flat-square&label=Profile+Visitors" alt="Profile Visitors" />
 </p>
 
-<h4 align="center">💖 Forged in the digital fires of Sri Lanka | Open to mind-bending opportunities and reality-warping collaborations! 💖</h4>
+<h4 align="center">💖 Made with love in Sri Lanka | Open to exciting opportunities and fun collaborations! 💖</h4>
 
-<!-- Hidden Quantum Anomaly: Congratulations, explorer of the digital cosmos! You've discovered a pocket universe. Use this knowledge to shape the future of code. May your commits be ever in your favor. -->
+<!-- Hey there, curious coder! You've found a hidden message. Use your skills to make the world a better place through code. Happy coding! -->
