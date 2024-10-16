@@ -1,10 +1,6 @@
-<div align="center">
-  <img src="https://i.imgur.com/iXuL1HG.png" alt="Header" width="100%"/>
-</div>
+# About Me
 
-## About Me
-
-My name is Razan, and I’m 19 years old.
+👋 Hi there! I'm Razan, a passionate 19-year-old developer on a journey to master the art of coding. I love exploring new technologies and creating innovative solutions that make a difference. Welcome to my world!
 
 ## Tools I Use
 
