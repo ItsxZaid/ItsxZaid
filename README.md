@@ -1,6 +1,6 @@
 # About Me
 
-👋 Hi there! I'm Razan, a passionate 19-year-old developer on a journey to master the art of coding. I love exploring new technologies and creating innovative solutions that make a difference. Welcome to my world!
+👋 Hey there! I'm Razan, a 19-year-old developer from beautiful Sri Lanka 🇱🇰. I still call this place home, and I’m fortunate to have made friends from all over the world while diving into the world of coding.
 
 ## Tools I Use
 
