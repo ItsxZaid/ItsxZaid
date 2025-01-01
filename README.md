@@ -1,6 +1,12 @@
-# About Me
+<div align="center">
+  
+# 🌟 Hey, I'm Razan! 
 
-👋 Hey there! I'm Razan, a 19-year-old developer from Sri Lanka 🇱🇰. I still call this place home, and I’m fortunate to have made friends from all over the world while diving into the world of coding.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;19+years+old;Building+cool+stuff+from+Sri+Lanka+🇱🇰)](https://git.io/typing-svg)
+
+</div>
+
+👋 19-year-old developer from Sri Lanka 🇱🇰. I still call this place home, and I’m fortunate to have made friends from all over the world while diving into the world of coding.
 
 ## Tools I Use
 <div align="center">
