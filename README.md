@@ -1,6 +1,6 @@
 # About Me
 
-👋 Hey there! I'm Razan, a 19-year-old developer from beautiful Sri Lanka 🇱🇰. I still call this place home, and I’m fortunate to have made friends from all over the world while diving into the world of coding.
+👋 Hey there! I'm Razan, a 19-year-old developer from Sri Lanka 🇱🇰. I still call this place home, and I’m fortunate to have made friends from all over the world while diving into the world of coding.
 
 ## Tools I Use
 
