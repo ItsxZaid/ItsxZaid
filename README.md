@@ -1,51 +1,70 @@
 <div align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="120">
+
+  # 👋 Yo! I'm Razan 
   
-# 🌟 Hey, I'm Razan! 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;19+years+old;Building+cool+stuff+from+Sri+Lanka+🇱🇰)](https://git.io/typing-svg)
-
+  ### 🚀 Full-Stack Dev • ☕ Tea Addict • 🎮 Casual Gamer
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=22&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=Building+stuff+that+makes+my+mom+proud;Professional+code+googler;Sri+Lankan+tech+bro;React+>+Angular+fite+me)](https://git.io/typing-svg)
 </div>
 
-👋 19-year-old developer from Sri Lanka 🇱🇰. I still call this place home, and I’m fortunate to have made friends from all over the world while diving into the world of coding.
+---
 
-## Tools I Use
-<div align="center">
+### 🔧 My Tech Stack
 
-### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+**Main Hustle**  
+![JavaScript](https://img.shields.io/badge/-JS%20-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React%20-%2320232a?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js%20-%23339933?style=flat-square&logo=node.js)
+![Python](https://img.shields.io/badge/-Python%20-%233776AB?style=flat-square&logo=python)
 
-### Databases & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+**Side Quests**  
+![MongoDB](https://img.shields.io/badge/-MongoDB%20-%2347A248?style=flat-square&logo=mongodb)
+![AWS](https://img.shields.io/badge/-AWS%20-%23FF9900?style=flat-square&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/-Docker%20-%232496ED?style=flat-square&logo=docker)
 
-</div>
+---
 
-## 📊 GitHub Stats
+### 📈 GitHub Flex
+
 <div align="center">
   
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=hacxk&show_icons=true&theme=tokyonight)
+  [![Razan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hacxk&show_icons=true&theme=dark&hide_border=true)](https://github.com/hacxk)
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hacxk&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
-## 🤝 Let's Connect!
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/razan-dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://razan.vercel.app/)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hacxk&layout=compact&theme=dark&hide_border=true)](https://github.com/hacxk)
 
 </div>
 
 ---
+
+### 🕹️ When I'm Not Coding
+
+- 🏏 Watching cricket highlights (SL team forever!)
+- ☕ Drinking milk tea like it's oxygen
+  
+---
+
+### 💬 Bro Talk
+
 <div align="center">
-  <b>Thanks for stopping by! Feel free to check out my repos 😊</b>
+  
+  [![Discord](https://img.shields.io/badge/-Add%20me%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/hacxk)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn%20Profile-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/razan-dev)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  **Latest Obsessions:**  
+  🍜 Kottu Roti • 🧑💻 Dev memes • 🌴 Beach vibes
+  
+  ![Alt Text](https://media.giphy.com/media/l3vRfNAzw2Qiq7q5W/giphy.gif)
+  
+  Hit me up for:  
+  🤝 Collabs • 💡 Project ideas • 🎮 Gaming sessions • 🍵 Tea recommendations
+  
+  *"Code first, ask questions never"* 😎
+
 </div>
