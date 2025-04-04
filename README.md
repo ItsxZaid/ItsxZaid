@@ -1,19 +1,5 @@
-# Zaid
-### Full-Stack Developer
+# Hi, I'm Zaid 👋
 
-### Tech Stack
-**Primary:** JavaScript, React, Node.js, Python  
-**Secondary:** MongoDB, AWS, Docker
+Welcome to my GitHub profile!
 
-### GitHub
-GitHub stats and programming languages
-
-### Interests
-- Cricket (Sri Lankan team supporter)
-- Tea enthusiast
-
-### Contact
-- Discord: hacxk
-- LinkedIn: razan-dev
-
-*Available for collaborations and project discussions*
+Feel free to check out my repositories. If you find something you like, please consider giving it a star ⭐! I appreciate the support.
