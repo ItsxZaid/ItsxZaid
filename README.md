@@ -1,4 +1,12 @@
 ```rust
+fn main() {
+    let who_am_i = WhoAmI::builder()
+        .name("Zaid".to_owned())
+        .age(18)
+        .country("Sri Lanka".to_owned())
+        .build();
+}
+
 struct WhoAmI {
     name: String,
     age: u8,
@@ -47,17 +55,5 @@ impl WhoAmIBuilder {
             country: self.country,
         }
     }
-}
-
-fn main() {
-
-
-
-
-    let who_am_i = WhoAmI::builder()
-        .name("Zaid".to_owned())
-        .age(18)
-        .country("Sri Lanka".to_owned())
-        .build();
 }
 ```
