@@ -1,16 +1,63 @@
-# Hi, I'm Zaid 👋
+```rust
+struct WhoAmI {
+    name: String,
+    age: u8,
+    country: String,
+}
 
-Welcome to my GitHub profile!
+impl WhoAmI {
 
-### 📊 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hacxk&layout=compact&langs_count=8&theme=radical)](https://github.com/hacxk?tab=repositories)
+    pub fn builder() -> WhoAmIBuilder {
+        WhoAmIBuilder::default()
+    }
+}
 
-### ⚡ GitHub Stats
-![Zaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=hacxk&show_icons=true&theme=radical)
-
-### 🔥 Streaks
-[![GitHub Streak](https://streak-stats.demolab.com?user=hacxk&theme=radical)](https://git.io/streak-stats)
+#[derive(Default)]
+struct WhoAmIBuilder {
 
 
-Feel free to check out my repositories. If you find something you like, please consider giving it a star ⭐! I appreciate the support.
+    name: String,
+    age: u8,
+    country: String,
+}
 
+impl WhoAmIBuilder {
+
+
+
+    pub fn name(mut self, name: String) -> Self {
+        self.name = name;
+        self
+    }
+
+    pub fn age(mut self, age: u8) -> Self {
+        self.age = age;
+        self
+    }
+
+    pub fn country(mut self, country: String) -> Self {
+        self.country = country;
+        self
+    }
+
+    pub fn build(self) -> WhoAmI {
+        WhoAmI {
+            name: self.name,
+            age: self.age,
+            country: self.country,
+        }
+    }
+}
+
+fn main() {
+
+
+
+
+    let who_am_i = WhoAmI::builder()
+        .name("Zaid".to_owned())
+        .age(18)
+        .country("Sri Lanka".to_owned())
+        .build();
+}
+```
