@@ -1,18 +1,16 @@
 # 👋 Hi, I'm Zaid
 
-I'm an 18-year-old developer from Sri Lanka passionate about building fast, secure, and efficient software. I work mostly in:
+I’m an 18-year-old developer from Sri Lanka.
 
-- 🦀 **Rust**
-- 🧩 **TypeScript** / **React**
-- 🛠️ **Node.js**
-- 🌀 **Go**
-- 🐍 **Python**
+My focus is on building software that is **fast, secure, and efficient.**
+I write clean, rock-solid code that performs. No bloat.
 
-My interests include:
+---
 
-Ahhhhh Waffle
+### My Toolkit
 
-Most of my projects live here:  
-👉 [github.com/forgeseer](https://github.com/orgs/forgeseer/repositories)
-
-Thanks for stopping by!
+* 🦀 **Rust**
+* 🌀 **Go**
+* 🧩 **TypeScript / React**
+* 🛠️ **Node.js**
+* 🐍 **Python**
